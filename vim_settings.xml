@@ -1,0 +1,232 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Dev/flink/flink-runtime/src/main/java/org/apache/flink/runtime/state/StatePartitionStreamProvider.java" timestamp="1544709019417">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="36" column="46" />
+      </file>
+      <file name="$USER_HOME$/Dev/flink/flink-streaming-java/src/main/java/org/apache/flink/streaming/runtime/operator/InternalTimerServiceImpl.java" timestamp="1544714747177">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/flink/flink-runtime/src/main/java/org/apache/flink/runtime/state/KeyGroupStatePartitionStreamProvider.java" timestamp="1544709111544">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="31" column="23" />
+      </file>
+      <file name="$USER_HOME$/Dev/flink/flink-streaming-sdk/src/main/java/org/apache/flink/streaming/api/checkpoint/StateSnapshotContext.java" timestamp="1544717770626">
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="38" column="22" />
+        <mark key="." line="38" column="22" />
+        <mark key="^" line="38" column="22" />
+      </file>
+      <file name="$USER_HOME$/Dev/flink/flink-runtime/src/main/java/org/apache/flink/runtime/state/DefaultKeyGroupStatePartitionStreamProvider.java" timestamp="1544709076998">
+        <mark key="[" line="29" column="65" />
+        <mark key="]" line="29" column="66" />
+        <mark key="." line="29" column="66" />
+        <mark key="^" line="29" column="66" />
+      </file>
+      <file name="$USER_HOME$/Dev/flink/flink-runtime/src/main/java/org/apache/flink/runtime/state/DefaultStatePartitionStreamProvider.java" timestamp="1544709026191">
+        <mark key="[" line="33" column="49" />
+        <mark key="]" line="33" column="49" />
+        <mark key="^" line="33" column="85" />
+        <mark key="." line="33" column="49" />
+      </file>
+      <file name="$USER_HOME$/Dev/flink/flink-streaming-sdk/src/main/java/org/apache/flink/streaming/api/operators/StreamingRuntimeContext.java" timestamp="1544713631104">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="57" column="27" />
+        <mark key="." line="58" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/flink/flink-core/src/main/java/org/apache/flink/api/common/state/KeyGroupAwareOutput.java" timestamp="1544717732521">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="^" line="62" column="71" />
+        <mark key="." line="63" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/flink/flink-streaming-java/src/test/java/org/apache/flink/streaming/runtime/operators/windowing/WindowOperatorTest.java" timestamp="1544525442694">
+        <mark key="[" line="1946" column="16" />
+        <mark key="]" line="1946" column="28" />
+        <mark key="." line="1946" column="28" />
+        <mark key="^" line="1946" column="28" />
+      </file>
+      <file name="$USER_HOME$/Dev/flink/flink-streaming-sdk/src/main/java/org/apache/flink/streaming/api/checkpoint/KeyGroupOutput.java" timestamp="1544717593085">
+        <mark key="[" line="31" column="25" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1544717379085">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/Dev/flink/flink-streaming-sdk/src/main/java/org/apache/flink/streaming/api/checkpoint/KeyGroupAwareOutputStream.java" timestamp="1544717570159">
+        <mark key="[" line="61" column="4" />
+        <mark key="]" line="61" column="4" />
+        <mark key="^" line="31" column="15" />
+        <mark key="." line="61" column="4" />
+      </file>
+      <file name="$USER_HOME$/Dev/flink/flink-streaming-sdk/src/main/java/org/apache/flink/streaming/api/checkpoint/KeyGroupAwareOutput.java" timestamp="1544717652677">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/flink/flink-runtime/src/main/java/org/apache/flink/runtime/state/KeyedStateCheckpointOutputStream.java" timestamp="1544717749971">
+        <mark key="[" line="110" column="5" />
+        <mark key="]" line="115" column="4" />
+        <mark key="." line="115" column="4" />
+        <mark key="^" line="115" column="4" />
+      </file>
+      <file name="$USER_HOME$/Dev/flink/flink-libraries/flink-table-common/src/main/java/org/apache/flink/table/factories/TableFactory.java" timestamp="1544189323205">
+        <mark key="[" line="36" column="3" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/flink/flink-formats/flink-sequence-file/pom.xml" timestamp="1545056401161">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/flink/flink-streaming-sdk/src/main/java/org/apache/flink/streaming/api/checkpoint/StatePartitionStreamProvider.java" timestamp="1544709130738">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/flink/flink-streaming-sdk/src/main/java/org/apache/flink/streaming/api/operators/DefaultStreamingRuntimeContext.java" timestamp="1544713664949">
+        <mark key="[" line="51" column="52" />
+        <mark key="]" line="52" column="27" />
+        <mark key="." line="52" column="27" />
+        <mark key="^" line="52" column="27" />
+      </file>
+      <file name="$USER_HOME$/Dev/flink/flink-streaming-sdk/src/main/java/org/apache/flink/streaming/api/operators/AbstractStreamOperator.java" timestamp="1544715963624">
+        <mark key="[" line="548" column="0" />
+        <mark key="]" line="548" column="55" />
+        <mark key="." line="548" column="9" />
+        <mark key="^" line="548" column="9" />
+      </file>
+      <file name="/fragment.java" timestamp="1544717662618">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/flink/flink-streaming-sdk/src/main/java/org/apache/flink/streaming/runtime/streamrecord/LatencyMarker.java" timestamp="1544713849790">
+        <mark key="[" line="58" column="11" />
+        <mark key="]" line="58" column="11" />
+        <mark key="." line="58" column="20" />
+        <mark key="^" line="38" column="27" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="167" column="42" filename="$USER_HOME$/Dev/flink/flink-filesystems/flink-fs-hadoop-shaded/pom.xml" />
+      <jump line="13" column="3" filename="$USER_HOME$/Dev/flink/flink-end-to-end-tests/test-scripts/test_resume_externalized_checkpoints.sh" />
+      <jump line="54" column="0" filename="$USER_HOME$/Dev/flink/flink-end-to-end-tests/test-scripts/test_resume_externalized_checkpoints.sh" />
+      <jump line="55" column="28" filename="$USER_HOME$/Dev/flink/flink-end-to-end-tests/test-scripts/test_resume_externalized_checkpoints.sh" />
+      <jump line="248" column="42" filename="$USER_HOME$/Dev/flink/flink-filesystems/flink-s3-fs-presto/pom.xml" />
+      <jump line="268" column="67" filename="$USER_HOME$/Dev/flink/flink-filesystems/flink-s3-fs-presto/pom.xml" />
+      <jump line="113" column="32" filename="$USER_HOME$/Dev/flink/flink-filesystems/flink-s3-fs-presto/pom.xml" />
+      <jump line="117" column="32" filename="$USER_HOME$/Dev/flink/flink-filesystems/flink-s3-fs-presto/pom.xml" />
+      <jump line="121" column="32" filename="$USER_HOME$/Dev/flink/flink-filesystems/flink-s3-fs-presto/pom.xml" />
+      <jump line="125" column="32" filename="$USER_HOME$/Dev/flink/flink-filesystems/flink-s3-fs-presto/pom.xml" />
+      <jump line="129" column="32" filename="$USER_HOME$/Dev/flink/flink-filesystems/flink-s3-fs-presto/pom.xml" />
+      <jump line="133" column="32" filename="$USER_HOME$/Dev/flink/flink-filesystems/flink-s3-fs-presto/pom.xml" />
+      <jump line="237" column="48" filename="$USER_HOME$/Dev/flink/flink-filesystems/flink-s3-fs-presto/pom.xml" />
+      <jump line="238" column="90" filename="$USER_HOME$/Dev/flink/flink-filesystems/flink-s3-fs-presto/pom.xml" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLmFwYWNoZS5mbGluazwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+ZmxpbmstaGFkb29wLWZzPC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj4ke3Byb2plY3QudmVyc2lvbn08L3ZlcnNpb24+CgkJCTxzY29wZT5wcm92aWRlZDwvc2NvcGU+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>KeyGroupAwareOutputStream</text>
+      </register>
+      <register name="/" type="4">
+        <text>qos</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">CSBQcm9jZXNzaW5nVGltZVNlcnZpY2UgZ2V0UHJvY2Vzc2luZ1RpbWVTZXJ2aWNlKCkgewo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLmFwYWNoZS5mbGluazwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+ZmxpbmstaGFkb29wLWZzPC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj4ke3Byb2plY3QudmVyc2lvbn08L3ZlcnNpb24+CgkJCTxzY29wZT5wcm92aWRlZDwvc2NvcGU+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLmFwYWNoZS5mbGluazwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+Zmxpbmstc2hhZGVkLWhhZG9vcDI8L2FydGlmYWN0SWQ+CgkJCTx2ZXJzaW9uPiR7cHJvamVjdC52ZXJzaW9ufTwvdmVyc2lvbj4KCQkJPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4KCQk8L2RlcGVuZGVuY3k+Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQk8IS0tPGRlcGVuZGVuY3k+LS0+CgkJCTwhLS08Z3JvdXBJZD5vcmcuYXBhY2hlLmZsaW5rPC9ncm91cElkPi0tPgoJCQk8IS0tPGFydGlmYWN0SWQ+ZmxpbmstaGFkb29wLWZzPC9hcnRpZmFjdElkPi0tPgoJCQk8IS0tPHZlcnNpb24+JHtwcm9qZWN0LnZlcnNpb259PC92ZXJzaW9uPi0tPgoJCQk8IS0tPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4tLT4KCQk8IS0tPC9kZXBlbmRlbmN5Pi0tPgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CSAqIEByZXR1cm4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uT3V0cHV0U3RyZWFtOwppbXBvcnQgamF2YS51dGlsLkFycmF5czsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuZmxpbmsudXRpbC5QcmVjb25kaXRpb25zOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CglAT3ZlcnJpZGUKCUtleUdyb3Vwc1N0YXRlSGFuZGxlIGNsb3NlQW5kR2V0SGFuZGxlKCkgdGhyb3dzIElPRXhjZXB0aW9uIHsKCQlTdHJlYW1TdGF0ZUhhbmRsZSBzdHJlYW1TdGF0ZUhhbmRsZSA9IGRlbGVnYXRlLmNsb3NlQW5kR2V0SGFuZGxlKCk7CgkJcmV0dXJuIHN0cmVhbVN0YXRlSGFuZGxlICE9IG51bGwgPyBuZXcgS2V5R3JvdXBzU3RhdGVIYW5kbGUoa2V5R3JvdXBSYW5nZU9mZnNldHMsIHN0cmVhbVN0YXRlSGFuZGxlKSA6IG51bGw7Cgl9Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQlyZXR1cm4gY3VycmVudEtleUdyb3VwOwoJfQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>qos</last-search>
+      <last-offset />
+      <last-pattern>qos</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxtYcucdmVuXD4=</entry>
+        <entry encoding="base64">XDxhcMucYWNoZVw+</entry>
+        <entry encoding="base64">XDxwy5xsdWdpbnNcPg==</entry>
+        <entry>CHECKPOINT_DIR</entry>
+        <entry>airlift</entry>
+        <entry>qos</entry>
+      </history-search>
+      <history-cmd>
+        <entry>actionList</entry>
+        <entry>actionlist</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
