@@ -20,6 +20,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="31" column="23" />
       </file>
+      <file name="/Dummy.txt" timestamp="1544717379085">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
       <file name="$USER_HOME$/Dev/flink/flink-streaming-sdk/src/main/java/org/apache/flink/streaming/api/checkpoint/StateSnapshotContext.java" timestamp="1544717770626">
         <mark key="[" line="38" column="4" />
         <mark key="]" line="38" column="22" />
@@ -32,44 +38,17 @@
         <mark key="." line="29" column="66" />
         <mark key="^" line="29" column="66" />
       </file>
-      <file name="$USER_HOME$/Dev/flink/flink-runtime/src/main/java/org/apache/flink/runtime/state/DefaultStatePartitionStreamProvider.java" timestamp="1544709026191">
-        <mark key="[" line="33" column="49" />
-        <mark key="]" line="33" column="49" />
-        <mark key="^" line="33" column="85" />
-        <mark key="." line="33" column="49" />
-      </file>
-      <file name="$USER_HOME$/Dev/flink/flink-streaming-sdk/src/main/java/org/apache/flink/streaming/api/operators/StreamingRuntimeContext.java" timestamp="1544713631104">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="57" column="27" />
-        <mark key="." line="58" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/flink/flink-core/src/main/java/org/apache/flink/api/common/state/KeyGroupAwareOutput.java" timestamp="1544717732521">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="^" line="62" column="71" />
-        <mark key="." line="63" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/flink/flink-streaming-java/src/test/java/org/apache/flink/streaming/runtime/operators/windowing/WindowOperatorTest.java" timestamp="1544525442694">
-        <mark key="[" line="1946" column="16" />
-        <mark key="]" line="1946" column="28" />
-        <mark key="." line="1946" column="28" />
-        <mark key="^" line="1946" column="28" />
-      </file>
-      <file name="$USER_HOME$/Dev/flink/flink-streaming-sdk/src/main/java/org/apache/flink/streaming/api/checkpoint/KeyGroupOutput.java" timestamp="1544717593085">
-        <mark key="[" line="31" column="25" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1544717379085">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="^" line="0" column="1" />
-        <mark key="." line="0" column="1" />
-      </file>
       <file name="$USER_HOME$/Dev/flink/flink-streaming-sdk/src/main/java/org/apache/flink/streaming/api/checkpoint/KeyGroupAwareOutputStream.java" timestamp="1544717570159">
         <mark key="[" line="61" column="4" />
         <mark key="]" line="61" column="4" />
         <mark key="^" line="31" column="15" />
         <mark key="." line="61" column="4" />
+      </file>
+      <file name="$USER_HOME$/Dev/flink/flink-filesystems/flink-s3-fs-hadoop/src/main/java/org/apache/flink/fs/s3hadoop/S3FileSystemFactory.java" timestamp="1546513589608">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/flink/flink-streaming-sdk/src/main/java/org/apache/flink/streaming/api/checkpoint/KeyGroupAwareOutput.java" timestamp="1544717652677">
         <mark key="[" line="23" column="0" />
@@ -88,6 +67,18 @@
         <mark key="^" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/flink/flink-runtime/src/main/java/org/apache/flink/runtime/state/DefaultStatePartitionStreamProvider.java" timestamp="1544709026191">
+        <mark key="[" line="33" column="49" />
+        <mark key="]" line="33" column="49" />
+        <mark key="^" line="33" column="85" />
+        <mark key="." line="33" column="49" />
+      </file>
+      <file name="$USER_HOME$/Dev/flink/flink-streaming-sdk/src/main/java/org/apache/flink/streaming/api/operators/StreamingRuntimeContext.java" timestamp="1544713631104">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="57" column="27" />
+        <mark key="." line="58" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/flink/flink-formats/flink-sequence-file/pom.xml" timestamp="1545056401161">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -97,6 +88,18 @@
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/flink/flink-core/src/main/java/org/apache/flink/api/common/state/KeyGroupAwareOutput.java" timestamp="1544717732521">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="^" line="62" column="71" />
+        <mark key="." line="63" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/flink/flink-streaming-java/src/test/java/org/apache/flink/streaming/runtime/operators/windowing/WindowOperatorTest.java" timestamp="1544525442694">
+        <mark key="[" line="1946" column="16" />
+        <mark key="]" line="1946" column="28" />
+        <mark key="." line="1946" column="28" />
+        <mark key="^" line="1946" column="28" />
       </file>
       <file name="$USER_HOME$/Dev/flink/flink-streaming-sdk/src/main/java/org/apache/flink/streaming/api/operators/DefaultStreamingRuntimeContext.java" timestamp="1544713664949">
         <mark key="[" line="51" column="52" />
@@ -109,6 +112,9 @@
         <mark key="]" line="548" column="55" />
         <mark key="." line="548" column="9" />
         <mark key="^" line="548" column="9" />
+      </file>
+      <file name="$USER_HOME$/Dev/flink/flink-streaming-sdk/src/main/java/org/apache/flink/streaming/api/checkpoint/KeyGroupOutput.java" timestamp="1544717593085">
+        <mark key="[" line="31" column="25" />
       </file>
       <file name="/fragment.java" timestamp="1544717662618">
         <mark key="[" line="0" column="0" />
@@ -223,6 +229,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
