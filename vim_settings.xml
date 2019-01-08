@@ -94,6 +94,9 @@
         <mark key="^" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/flink/flink-runtime/src/main/java/org/apache/flink/runtime/rest/handler/legacy/files/StaticFileServerHandler.java" timestamp="1546941000024">
+        <mark key="'" line="136" column="50" />
+      </file>
       <file name="$USER_HOME$/Dev/flink/flink-formats/flink-sequence-file/pom.xml" timestamp="1545056401161">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -147,6 +150,8 @@
       <jump line="133" column="32" filename="$USER_HOME$/Dev/flink/flink-filesystems/flink-s3-fs-presto/pom.xml" />
       <jump line="237" column="48" filename="$USER_HOME$/Dev/flink/flink-filesystems/flink-s3-fs-presto/pom.xml" />
       <jump line="238" column="90" filename="$USER_HOME$/Dev/flink/flink-filesystems/flink-s3-fs-presto/pom.xml" />
+      <jump line="115" column="46" filename="$USER_HOME$/Dev/flink/flink-runtime/src/main/java/org/apache/flink/runtime/rest/handler/legacy/files/StaticFileServerHandler.java" />
+      <jump line="136" column="50" filename="$USER_HOME$/Dev/flink/flink-runtime/src/main/java/org/apache/flink/runtime/rest/handler/legacy/files/StaticFileServerHandler.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -156,7 +161,7 @@
         <text>KeyGroupAwareOutputStream</text>
       </register>
       <register name="/" type="4">
-        <text>maven-shade</text>
+        <text>jobmanager</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSBQcm9jZXNzaW5nVGltZVNlcnZpY2UgZ2V0UHJvY2Vzc2luZ1RpbWVTZXJ2aWNlKCkgewo=</text>
@@ -193,9 +198,9 @@
       </register>
     </registers>
     <search>
-      <last-search>maven-shade</last-search>
+      <last-search>jobmanager</last-search>
       <last-offset />
-      <last-pattern>maven-shade</last-pattern>
+      <last-pattern>jobmanager</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -208,6 +213,7 @@
         <entry>airlift</entry>
         <entry>qos</entry>
         <entry>maven-shade</entry>
+        <entry>jobmanager</entry>
       </history-search>
       <history-cmd>
         <entry>actionList</entry>
