@@ -38,6 +38,11 @@
         <mark key="^" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/flink/flink-streaming-java/src/main/java/org/apache/flink/streaming/api/datastream/KeyedStream.java" timestamp="1546943240402">
+        <mark key="[" line="235" column="4" />
+        <mark key="]" line="235" column="4" />
+        <mark key="." line="235" column="4" />
+      </file>
       <file name="$USER_HOME$/Dev/flink/flink-runtime/src/main/java/org/apache/flink/runtime/state/DefaultStatePartitionStreamProvider.java" timestamp="1544709026191">
         <mark key="[" line="33" column="49" />
         <mark key="]" line="33" column="49" />
@@ -95,7 +100,7 @@
         <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/flink/flink-runtime/src/main/java/org/apache/flink/runtime/rest/handler/legacy/files/StaticFileServerHandler.java" timestamp="1546941000024">
-        <mark key="'" line="136" column="50" />
+        <mark key="'" line="134" column="50" />
       </file>
       <file name="$USER_HOME$/Dev/flink/flink-formats/flink-sequence-file/pom.xml" timestamp="1545056401161">
         <mark key="[" line="52" column="0" />
@@ -154,11 +159,11 @@
       <jump line="136" column="50" filename="$USER_HOME$/Dev/flink/flink-runtime/src/main/java/org/apache/flink/runtime/rest/handler/legacy/files/StaticFileServerHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLmFwYWNoZS5mbGluazwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+ZmxpbmstaGFkb29wLWZzPC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj4ke3Byb2plY3QudmVyc2lvbn08L3ZlcnNpb24+CgkJCTxzY29wZT5wcm92aWRlZDwvc2NvcGU+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="-" type="4">
-        <text>KeyGroupAwareOutputStream</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="/" type="4">
         <text>jobmanager</text>
