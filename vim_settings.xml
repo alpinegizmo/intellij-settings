@@ -75,6 +75,12 @@
       <file name="$USER_HOME$/Dev/flink/flink-streaming-sdk/src/main/java/org/apache/flink/streaming/api/checkpoint/KeyGroupOutput.java" timestamp="1544717593085">
         <mark key="[" line="31" column="25" />
       </file>
+      <file name="$USER_HOME$/Dev/flink/flink-end-to-end-tests/test-scripts/queryable_state_base.sh" timestamp="1547194679401">
+        <mark key="[" line="25" column="6" />
+        <mark key="]" line="26" column="43" />
+        <mark key="^" line="26" column="43" />
+        <mark key="." line="26" column="43" />
+      </file>
       <file name="/Dummy.txt" timestamp="1544717379085">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
