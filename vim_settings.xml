@@ -72,9 +72,6 @@
         <mark key="." line="1946" column="28" />
         <mark key="^" line="1946" column="28" />
       </file>
-      <file name="$USER_HOME$/Dev/flink/flink-streaming-sdk/src/main/java/org/apache/flink/streaming/api/checkpoint/KeyGroupOutput.java" timestamp="1544717593085">
-        <mark key="[" line="31" column="25" />
-      </file>
       <file name="$USER_HOME$/Dev/flink/flink-end-to-end-tests/test-scripts/queryable_state_base.sh" timestamp="1547194679401">
         <mark key="[" line="25" column="6" />
         <mark key="]" line="26" column="43" />
@@ -144,14 +141,16 @@
         <mark key="^" line="74" column="21" />
         <mark key="." line="74" column="21" />
       </file>
-      <file name="/fragment.java" timestamp="1544717662618">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Dev/flink/flink-streaming-sdk/src/main/java/org/apache/flink/streaming/runtime/streamrecord/LatencyMarker.java" timestamp="1544713849790">
         <mark key="[" line="58" column="11" />
         <mark key="]" line="58" column="11" />
         <mark key="." line="58" column="20" />
         <mark key="^" line="38" column="27" />
+      </file>
+      <file name="$USER_HOME$/Dev/flink/flink-core/src/main/java/org/apache/flink/api/java/typeutils/GenericTypeInfo.java" timestamp="1547222564736">
+        <mark key="[" line="33" column="13" />
+        <mark key="]" line="33" column="13" />
+        <mark key="." line="33" column="13" />
       </file>
     </filemarks>
     <jumps>
@@ -173,11 +172,11 @@
       <jump line="136" column="50" filename="$USER_HOME$/Dev/flink/flink-runtime/src/main/java/org/apache/flink/runtime/rest/handler/legacy/files/StaticFileServerHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">R2VuZXJpY1R5cGVJbmZvPFQ+IGV4dGVuZHMgVHlwZUluZm9ybWF0aW9uPFQ+IGltcGxlbWVudHMgQXRvbWljVHlwZTxUPiB7</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text encoding="base64">R2VuZXJpY1R5cGVJbmZvPFQ+IGV4dGVuZHMgVHlwZUluZm9ybWF0aW9uPFQ+IGltcGxlbWVudHMgQXRvbWljVHlwZTxUPiB7</text>
       </register>
       <register name="/" type="4">
         <text>jobmanager</text>
