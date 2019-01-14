@@ -60,11 +60,11 @@
         <mark key="^" line="57" column="27" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/flink/flink-end-to-end-tests/flink-parent-child-classloading-test/src/main/java/org/apache/flink/streaming/tests/ClassLoaderTestProgram.java" timestamp="1547472115142">
-        <mark key="[" line="72" column="86" />
-        <mark key="]" line="74" column="53" />
-        <mark key="." line="74" column="53" />
-        <mark key="^" line="74" column="53" />
+      <file name="$USER_HOME$/Dev/flink/flink-end-to-end-tests/flink-parent-child-classloading-test/src/main/java/org/apache/flink/streaming/tests/ClassLoaderTestProgram.java" timestamp="1547473250469">
+        <mark key="[" line="65" column="42" />
+        <mark key="]" line="65" column="71" />
+        <mark key="." line="65" column="71" />
+        <mark key="^" line="65" column="71" />
       </file>
       <file name="$USER_HOME$/Dev/flink/flink-core/src/main/java/org/apache/flink/api/common/state/KeyGroupAwareOutput.java" timestamp="1544717732521">
         <mark key="[" line="63" column="0" />
@@ -188,44 +188,44 @@
       <jump line="134" column="20" filename="$USER_HOME$/Dev/flink/flink-end-to-end-tests/flink-parent-child-classloading-test/src/main/java/org/apache/flink/streaming/tests/ClassLoaderTestProgram.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQlTeXN0ZW0ub3V0LnByaW50bG4oIkxvYWRpbmcgY29uZmlndXJhdGlvbiBwcm9wZXJ0eTogIiArIGtleSArICIsICIgKyB2YWx1ZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>conf.toString();</text>
       </register>
       <register name="-" type="4">
-        <text>orderedGitCommitId</text>
+        <text>conf.toString();</text>
       </register>
       <register name="/" type="4">
         <text>System.out</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQlDb25maWd1cmF0aW9uIGNvbmYgPSBsb2FkWUFNTFJlc291cmNlKHByb3BGaWxlKTsKCQkJCQlwYWNrYWdlTmFtZSA9IGNvbmYuZ2V0U3RyaW5nKCJJbXBsZW1lbnRhdGlvbi1UaXRsZSIsICJOT1QtRk9VTkQiKTsK</text>
+        <text encoding="base64">CQkJCQlpZiAocGFja2FnZU5hbWUuZXF1YWxzKCJOT1QtRk9VTkQiKSkgewoJCQkJCQlwYWNrYWdlTmFtZSA9IGNvbmYudG9TdHJpbmcoKTsKCQkJCQl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQlTeXN0ZW0ub3V0LnByaW50bG4oIkxvYWRpbmcgY29uZmlndXJhdGlvbiBwcm9wZXJ0eTogIiArIGtleSArICIsICIgKyB2YWx1ZSk7Cg==</text>
+        <text encoding="base64">CQkJCQkJaWYgKHBhY2thZ2VOYW1lLmVxdWFscygiTk9ULUZPVU5EIikpIHsKCQkJCQkJCXBhY2thZ2VOYW1lID0gY29uZi50b1N0cmluZygpOwoJCQkJCQl9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJU3lzdGVtLm91dC5wcmludGxuKCJFcnJvciBhZnRlciBzcGxpdHRpbmcga2V5IGFuZCB2YWx1ZToiICsgbGluZU5vICsgIjogXCIiICsgbGluZSArICJcIiIpOwo=</text>
+        <text encoding="base64">CQkJCQkJc29ydGVkUHJvcGVydGllcy5hcHBlbmQocGFja2FnZU5hbWUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJU3lzdGVtLm91dC5wcmludGxuKCJFcnJvciB3aGlsZSB0cnlpbmcgdG8gc3BsaXQga2V5IGFuZCB2YWx1ZToiICsgbGluZU5vICsgIjogXCIiICsgbGluZSArICJcIiIpOwo=</text>
+        <text encoding="base64">CQkJCQlTeXN0ZW0ub3V0LnByaW50bG4oIkxvYWRpbmcgY29uZmlndXJhdGlvbiBwcm9wZXJ0eTogIiArIGtleSArICIsICIgKyB2YWx1ZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJU3lzdGVtLm91dC5wcmludGxuKCJFcnJvciBhZnRlciBzcGxpdHRpbmcga2V5IGFuZCB2YWx1ZToiICsgbGluZU5vICsgIjogXCIiICsgbGluZSArICJcIiIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Qcm9wZXJ0aWVzOwo=</text>
+        <text encoding="base64">CQkJCQkJU3lzdGVtLm91dC5wcmludGxuKCJFcnJvciB3aGlsZSB0cnlpbmcgdG8gc3BsaXQga2V5IGFuZCB2YWx1ZToiICsgbGluZU5vICsgIjogXCIiICsgbGluZSArICJcIiIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuZmxpbmsuY29uZmlndXJhdGlvbi5HbG9iYWxDb25maWd1cmF0aW9uOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCVN0cmluZyBwYWNrYWdlTmFtZTsKCgkJCQl0cnkgKElucHV0U3RyZWFtIHByb3BGaWxlID0gQ2xhc3NMb2FkZXJUZXN0UHJvZ3JhbS5jbGFzcy5nZXRDbGFzc0xvYWRlcigpLmdldFJlc291cmNlQXNTdHJlYW0oIk1FVEEtSU5GL01BTklGRVNULk1GIikpIHsKCQkJCQlDb25maWd1cmF0aW9uIGNvbmYgPSBsb2FkWUFNTFJlc291cmNlKHByb3BGaWxlKTsKCQkJCQlwYWNrYWdlTmFtZSA9IGNvbmYuZ2V0U3RyaW5nKCJJbXBsZW1lbnRhdGlvbi1UaXRsZSIsICJOT1QtRk9VTkQiKTsKCQkJCX0KCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Qcm9wZXJ0aWVzOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJU3RyaW5nIHBhY2thZ2VOYW1lID0gcHJvcGVydGllcy5nZXRQcm9wZXJ0eSgiZ2l0LmNvbW1pdC5pZC5hYmJyZXYiKTsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuZmxpbmsuY29uZmlndXJhdGlvbi5HbG9iYWxDb25maWd1cmF0aW9uOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJcHJvcGVydGllcy5sb2FkKGluKTsK</text>
+        <text encoding="base64">CQkJCVN0cmluZyBwYWNrYWdlTmFtZTsKCgkJCQl0cnkgKElucHV0U3RyZWFtIHByb3BGaWxlID0gQ2xhc3NMb2FkZXJUZXN0UHJvZ3JhbS5jbGFzcy5nZXRDbGFzc0xvYWRlcigpLmdldFJlc291cmNlQXNTdHJlYW0oIk1FVEEtSU5GL01BTklGRVNULk1GIikpIHsKCQkJCQlDb25maWd1cmF0aW9uIGNvbmYgPSBsb2FkWUFNTFJlc291cmNlKHByb3BGaWxlKTsKCQkJCQlwYWNrYWdlTmFtZSA9IGNvbmYuZ2V0U3RyaW5nKCJJbXBsZW1lbnRhdGlvbi1UaXRsZSIsICJOT1QtRk9VTkQiKTsKCQkJCX0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
