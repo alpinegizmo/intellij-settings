@@ -60,6 +60,12 @@
         <mark key="^" line="57" column="27" />
         <mark key="." line="58" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/flink/flink-end-to-end-tests/flink-parent-child-classloading-test/src/main/java/org/apache/flink/streaming/tests/ClassLoaderTestProgram.java" timestamp="1547461002958">
+        <mark key="[" line="61" column="21" />
+        <mark key="]" line="61" column="40" />
+        <mark key="." line="61" column="40" />
+        <mark key="^" line="61" column="40" />
+      </file>
       <file name="$USER_HOME$/Dev/flink/flink-core/src/main/java/org/apache/flink/api/common/state/KeyGroupAwareOutput.java" timestamp="1544717732521">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
@@ -173,10 +179,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">R2VuZXJpY1R5cGVJbmZvPFQ+IGV4dGVuZHMgVHlwZUluZm9ybWF0aW9uPFQ+IGltcGxlbWVudHMgQXRvbWljVHlwZTxUPiB7</text>
+        <text>.version.properties</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">R2VuZXJpY1R5cGVJbmZvPFQ+IGV4dGVuZHMgVHlwZUluZm9ybWF0aW9uPFQ+IGltcGxlbWVudHMgQXRvbWljVHlwZTxUPiB7</text>
+        <text>.version.properties</text>
       </register>
       <register name="/" type="4">
         <text>jobmanager</text>
