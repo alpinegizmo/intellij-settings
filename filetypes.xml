@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="SinkCollectingLongs" type="CLASS" />
       <mapping ext="mdx" type="Markdown" />
       <mapping pattern=".babelrc" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
