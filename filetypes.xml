@@ -3,10 +3,11 @@
     <extensionMap>
       <mapping pattern="SinkCollectingLongs" type="CLASS" />
       <mapping ext="mdx" type="Markdown" />
-      <mapping pattern=".babelrc" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
-      <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping pattern=".babelrc" type="PLAIN_TEXT" />
       <mapping ext="whl" type="PLAIN_TEXT" />
+      <mapping ext="simulator-java" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
