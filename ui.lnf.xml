@@ -1,7 +1,8 @@
 <application>
   <component name="UISettings">
+    <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="MAX_LOOKUP_WIDTH2" value="854" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
-    <option name="PRESENTATION_MODE_FONT_SIZE" value="20" />
+    <option name="PRESENTATION_MODE_FONT_SIZE" value="14" />
   </component>
 </application>
