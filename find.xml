@@ -14,7 +14,7 @@
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.py</mask>
-    <mask>*.java</mask>
     <mask>*.scala</mask>
+    <mask>*.java</mask>
   </component>
 </application>
