@@ -15,8 +15,8 @@
     <mask>*.mxml</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
+    <mask>*.py</mask>
     <mask>*.scala</mask>
     <mask>*.java</mask>
-    <mask>*.py</mask>
   </component>
 </application>
