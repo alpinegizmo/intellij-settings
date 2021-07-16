@@ -5,6 +5,7 @@
   <component name="ScalaApplicationSettings">
     <option name="SPECIFY_RETURN_TYPE_EXPLICITLY" value="ADD" />
     <option name="SUGGEST_AUTOBRACE_INSERTION" value="false" />
+    <option name="SUGGEST_LEGACY_IMPORT_LAYOUT" value="false" />
   </component>
   <component name="TypeAwareHighlightingApplicationState">
     <option name="SUGGEST_TYPE_AWARE_HIGHLIGHTING_ENABLED" value="true" />
