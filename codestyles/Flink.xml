@@ -55,6 +55,8 @@
   </MarkdownNavigatorCodeStyleSettings>
   <ScalaCodeStyleSettings>
     <option name="sortAsScalastyle" value="true" />
+    <option name="SCALAFMT_REFORMAT_ON_FILES_SAVE" value="true" />
+    <option name="FORMATTER" value="1" />
   </ScalaCodeStyleSettings>
   <editorconfig>
     <option name="ENABLED" value="false" />
