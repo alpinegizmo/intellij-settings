@@ -4,6 +4,7 @@
       <blacklist language="Java">
         <added pattern="java.lang.String.join(delimiter,elements)" />
         <added pattern="org.apache.flink.table.api.TableEnvironment.executeSql(statement)" />
+        <added pattern="org.apache.flink.table.api.Expressions.$(name)" />
       </blacklist>
     </blacklists>
   </component>
