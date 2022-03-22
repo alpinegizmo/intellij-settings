@@ -28,11 +28,16 @@
   </option>
   <option name="RIGHT_MARGIN" value="100" />
   <JavaCodeStyleSettings>
-    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="100" />
-    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="50" />
+    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
+    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
+    <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
+      <value />
+    </option>
     <option name="IMPORT_LAYOUT_TABLE">
       <value>
         <package name="org.apache.flink" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="org.apache.flink.shaded" withSubpackages="true" static="false" />
         <emptyLine />
         <package name="" withSubpackages="true" static="false" />
         <emptyLine />
