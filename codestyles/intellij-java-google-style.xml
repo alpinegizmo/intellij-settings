@@ -117,9 +117,6 @@
       <pair source="c" header="h" />
     </extensions>
   </Objective-C-extensions>
-  <Python>
-    <option name="USE_CONTINUATION_INDENT_FOR_ARGUMENTS" value="true" />
-  </Python>
   <ScalaCodeStyleSettings>
     <option name="importLayout">
       <array>
