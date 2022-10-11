@@ -11,7 +11,6 @@
       <mapping ext="whl" type="PLAIN_TEXT" />
       <mapping ext="simulator-java" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
-      <mapping ext="qrc" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
