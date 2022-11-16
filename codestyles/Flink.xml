@@ -60,6 +60,13 @@
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
   <ScalaCodeStyleSettings>
+    <option name="importLayout">
+      <array>
+        <option value="base package imports" />
+        <option value="_______ blank line _______" />
+        <option value="all other imports" />
+      </array>
+    </option>
     <option name="sortAsScalastyle" value="true" />
     <option name="SCALAFMT_REFORMAT_ON_FILES_SAVE" value="true" />
   </ScalaCodeStyleSettings>
