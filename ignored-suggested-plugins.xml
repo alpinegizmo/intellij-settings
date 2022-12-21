@@ -3,6 +3,9 @@
     <option name="pluginIds">
       <list>
         <option value="cucumber-java" />
+        <option value="aws.toolkit" />
+        <option value="org.dynamodb4idea" />
+        <option value="com.microsoft.tooling.msservices.intellij.azure" />
       </list>
     </option>
   </component>
